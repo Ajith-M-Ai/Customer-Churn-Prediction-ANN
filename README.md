@@ -71,6 +71,17 @@ Class 1:
 - Hyperparameter Optimization
 - XGBoost Comparison
 
+  ## Project Results
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Classification Report
+![Classification Report](images/classification_report.png)
+
+### ANN Architecture
+![ANN Architecture](images/ann_architecture.png)
+
 ## Author
 Ajith M
 
