@@ -74,13 +74,13 @@ Class 1:
   ## Project Results
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Classification Report
-![Classification Report](images/classification_report.png)
+![Classification Report](classification_report.png)
 
 ### ANN Architecture
-![ANN Architecture](images/ann_architecture.png)
+![ANN Architecture](ann_architecture.png)
 
 ## Author
 Ajith M
