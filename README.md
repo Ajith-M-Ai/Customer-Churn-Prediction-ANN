@@ -74,7 +74,7 @@ Class 1:
   ## Project Results
 
 ### Confusion Matrix
-![Confusion _Matrix](Confusion_Matrix.png)
+![Confusion _Matrix](./Confusion_Matrix.png)
 
 ### Classification Report
 ![Classification Report](classification_report.png)
