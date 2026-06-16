@@ -61,9 +61,6 @@ The following analyses were performed:
 - Month-to-Month contract customers had the highest churn rate.
 - One-Year and Two-Year contracts showed lower churn.
 
-### Correlation Analysis
-- Numerical features were analyzed using a correlation heatmap.
-- Tenure and Total Charges showed strong relationships with churn.
 
 ---
 
